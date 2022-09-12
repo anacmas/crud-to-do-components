@@ -1,0 +1,6 @@
+1. Criar um componente pra cada componente
+    a. Area de task
+    b. New task
+    c. 
+2. Conectar os componentes
+3. 
